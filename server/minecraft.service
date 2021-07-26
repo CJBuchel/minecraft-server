@@ -1,0 +1,8 @@
+[Unit]
+Description=Minecraft Service
+
+[Service]
+ExecStart=/home/minecraft/minecraft-server/server/startupScript.sh
+
+[Install]
+WantedBy=default.target
