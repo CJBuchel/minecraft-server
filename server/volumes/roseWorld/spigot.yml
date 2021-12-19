@@ -12,6 +12,7 @@
 
 config-version: 12
 settings:
+  log-named-deaths: true
   debug: false
   bungeecord: true
   sample-count: 12
@@ -62,6 +63,9 @@ players:
   disable-saving: false
 world-settings:
   default:
+    below-zero-generation-in-existing-chunks: true
+    simulation-distance: default
+    thunder-chance: 100000
     verbose: false
     hopper-amount: 1
     dragon-death-sound-radius: 0
@@ -95,6 +99,10 @@ world-settings:
     end-portal-sound-radius: 0
     max-entity-collisions: 8
     growth:
+      twistingvines-modifier: 100
+      weepingvines-modifier: 100
+      cavevines-modifier: 100
+      glowberry-modifier: 100
       cactus-modifier: 100
       cane-modifier: 100
       melon-modifier: 100

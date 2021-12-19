@@ -4,7 +4,7 @@
 # Creation logic, creates servers using either existing volumes, or creates said volumes
 #
 
-MC_VERSION=1.16.5
+MC_VERSION=1.18.1
 SERVER_DIR=/home/minecraft/minecraft-server/server
 
 # Create bungee network (Allows other containers to link to it)
@@ -30,7 +30,7 @@ sudo docker run -d \
 sudo docker run -d \
 	-e VERSION=$MC_VERSION \
 	-e EULA=TRUE \
-	-e TYPE=YATOPIA \
+	-e TYPE=PURPUR \
 	-e RELEASE=latest \
 	-e MEMORY=8G \
 	-e ENABLE_RCON=true \
@@ -47,7 +47,7 @@ sudo docker run -d \
 sudo docker run -d \
 	-e VERSION=$MC_VERSION \
 	-e EULA=TRUE \
-	-e TYPE=YATOPIA \
+	-e TYPE=PURPUR \
 	-e RELEASE=latest \
 	-e MEMORY=8G \
 	-e ENABLE_RCON=true \
@@ -64,7 +64,7 @@ sudo docker run -d \
 sudo docker run -d \
 	-e VERSION=$MC_VERSION \
 	-e EULA=TRUE \
-	-e TYPE=YATOPIA \
+	-e TYPE=PURPUR \
 	-e RELEASE=latest \
 	-e MEMORY=8G \
 	-e ENABLE_RCON=true \
