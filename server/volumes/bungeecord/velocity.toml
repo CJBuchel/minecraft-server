@@ -58,6 +58,7 @@ ping-passthrough = "DISABLED"
 	lobby = "lobby:25580"
 	roseworld = "roseworld:25581"
 	smp = "smp:25582"
+	kickoff = "kickoff:25583"
 	# In what order we should try servers when a player logs in or is kicked from a server.
 	try = ["lobby"]
 [forced-hosts]

@@ -34,6 +34,7 @@ messages:
     Please contact the server administrators if you believe that this is in error.'
 config-version: 24
 settings:
+  fix-target-selector-tag-completion: true
   log-player-ip-addresses: true
   console:
     enable-brigadier-highlighting: true
@@ -106,6 +107,7 @@ settings:
         action: DROP
 world-settings:
   default:
+    monster-spawn-max-light-level: -1
     generator-settings:
       flat-bedrock: false
     delay-chunk-unloads-by: 10s

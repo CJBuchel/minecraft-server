@@ -1,0 +1,88 @@
+fluid.darkessence=Dark Magic Essence
+fluid.whiteessence=White Magic Essence
+fluid.essenceotg=Essence of the Gods
+fluid.cookingoil=Cooking Oil
+fluid.vinegar=Vinegar
+fluid.superglue=Super Glue
+fluid.crystalline=Liquid Crystalline
+fluid.boost=Raw Boosting Mixture
+fluid.rboost=Refined Boosting Mixture
+fluid.shibu=Molten Shibuichi
+
+item.contenttweaker.darkmagicdust.name=Dark Magic Dust
+item.contenttweaker.rawbread.name=Raw Bread Dough
+item.contenttweaker.rawbaguette.name=Raw Baguette Dough
+item.contenttweaker.rawricebread.name=Raw Rice Bread
+
+item.contenttweaker.solidsilicon.name=Solid Silicon Cell
+item.contenttweaker.solidglue.name=Solid Glue Compound Cell
+item.contenttweaker.solidmush.name=Toxic Mixture
+
+item.contenttweaker.gluecompound.name=Glue Compound
+item.contenttweaker.sandyglassdust.name=Sandy-Glass Dust
+item.contenttweaker.graphitedust.name=Graphite Dust
+item.contenttweaker.whitemagicdust.name=White Magic Dust
+item.contenttweaker.dustotg.name=Majestic Dust
+item.contenttweaker.evilinfdust.name=Evil Infused Powder
+item.contenttweaker.demonicdust.name=Demonic Dust
+item.contenttweaker.livingdust.name=Living Dust
+item.contenttweaker.moonturf.name=Moon Turf Dust
+item.contenttweaker.marsturf.name=Mars Rock Dust
+item.contenttweaker.emptybag.name=Empty Bag
+item.contenttweaker.emptypot.name=Empty Pot
+item.contenttweaker.dmgpotclay.name=Clay Pot
+item.contenttweaker.dmgpotiron.name=Iron Pot
+item.contenttweaker.dmgpotdiamond.name=Diamond Pot
+item.contenttweaker.dmgjuicerclay.name=Clay Juicer
+item.contenttweaker.dmgjuiceriron.name=Iron Juicer
+item.contenttweaker.dmgjuicerdiamond.name=Diamond Juicer
+item.contenttweaker.pieplate.name=Pie Plate
+item.contenttweaker.drinkglass.name=Drinking Glass
+item.contenttweaker.ingot_vibra.name=Vibramantium Ingot
+item.contenttweaker.plate_vibra.name=Vibramantium Plate
+item.contenttweaker.plate_nucleum.name=Nucleum Plate
+item.contenttweaker.blessed_vanadium.name=Blessed Vanadium Ingot
+item.contenttweaker.blessed_vanadium_p.name=Blessed Vanadium Plates
+
+item.contenttweaker.card_2.name=Access Card Tier 2
+item.contenttweaker.card_3.name=Access Card Tier 3
+item.contenttweaker.card_4.name=Access Card Tier 4
+item.contenttweaker.card_5.name=Access Card Tier 5
+item.contenttweaker.card_6.name=Access Card Tier 6
+item.contenttweaker.card_7.name=Access Card Tier 7
+item.contenttweaker.card_8.name=Access Card Tier 8
+item.contenttweaker.card_9.name=Access Card Tier 9
+item.contenttweaker.card_10.name=Access Card Tier 10
+
+item.contenttweaker.tex1.name=TE-Exchanger Upgrade 1
+item.contenttweaker.tex2.name=TE-Exchanger Upgrade 2
+item.contenttweaker.tex3.name=TE-Exchanger Upgrade 3
+item.contenttweaker.tex4.name=TE-Exchanger Upgrade 4
+
+item.contenttweaker.batupt1.name=Battery Upgrade Kit T1
+item.contenttweaker.batupt2.name=Battery Upgrade Kit T2
+item.contenttweaker.batupt3.name=Battery Upgrade Kit T3
+item.contenttweaker.batupt4.name=Battery Upgrade Kit T4
+
+item.contenttweaker.rex1.name=Regular Exchanger Upgrade 1
+item.contenttweaker.rex2.name=Regular Exchanger Upgrade 2
+item.contenttweaker.rex3.name=Regular Exchanger Upgrade 3
+item.contenttweaker.rex4.name=Regular Exchanger Upgrade 4
+item.contenttweaker.rex5.name=Regular Exchanger Upgrade 5
+item.contenttweaker.rex6.name=Regular Exchanger Upgrade 6
+item.contenttweaker.rex7.name=Regular Exchanger Upgrade 7
+
+
+item.contenttweaker.chem_comp.name=Chemical Compound
+item.contenttweaker.herb_comp.name=Magic Compound
+item.contenttweaker.star_comp.name=Starlight Compound
+item.contenttweaker.boost.name=Boosting Mixture
+
+item.contenttweaker.ele_darkessence.name=Element: Darkmagium
+item.contenttweaker.ele_whiteessence.name=Element: Whitemagium
+item.contenttweaker.ele_mjessence.name=Element: Majestium
+item.contenttweaker.ele_living.name=Element: Livinium
+item.contenttweaker.ele_enderium.name=Element: Enderium
+item.contenttweaker.ele_neutro.name=Element: Neutronium
+item.contenttweaker.ele_vibra.name=Element: Vibramantium
+item.contenttweaker.concmaj.name=Concentrated Majestium

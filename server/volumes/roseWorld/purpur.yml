@@ -413,12 +413,14 @@ world-settings:
       use-night-vision: false
     mobs:
       axolotl:
+        always-drop-exp: false
         ridable: false
         attributes:
           max_health: 14.0
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       bat:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         ridable-max-y: 256.0
@@ -426,6 +428,7 @@ world-settings:
           max_health: 6.0
         takes-damage-from-water: false
       bee:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         ridable-max-y: 256.0
@@ -436,6 +439,7 @@ world-settings:
         can-work-at-night: false
         can-work-in-rain: false
       blaze:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         ridable-max-y: 256.0
@@ -443,6 +447,7 @@ world-settings:
           max_health: 20.0
         takes-damage-from-water: true
       cat:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         default-collar-color: RED
@@ -455,12 +460,14 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       cave_spider:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: 12.0
         takes-damage-from-water: false
       chicken:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -469,11 +476,13 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       cod:
+        always-drop-exp: false
         ridable: false
         attributes:
           max_health: 3.0
         takes-damage-from-water: false
       cow:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -485,6 +494,7 @@ world-settings:
           chance: 0.0
           damage: 2.0
       creeper:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -496,6 +506,7 @@ world-settings:
         explode-when-killed: false
         health-impacts-explosion: false
       dolphin:
+        always-drop-exp: false
         ridable: false
         spit:
           cooldown: 20
@@ -507,6 +518,7 @@ world-settings:
         takes-damage-from-water: false
         naturally-aggressive-to-players-chance: 0.0
       donkey:
+        always-drop-exp: false
         ridable-in-water: false
         attributes:
           max_health:
@@ -521,6 +533,7 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       drowned:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -533,6 +546,7 @@ world-settings:
         takes-damage-from-water: false
         can-break-doors: false
       elder_guardian:
+        always-drop-exp: false
         ridable: false
         attributes:
           max_health: 80.0
@@ -548,6 +562,7 @@ world-settings:
         takes-damage-from-water: false
         can-ride-vehicles: false
       enderman:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -562,12 +577,14 @@ world-settings:
         disable-player-stare-aggression: false
         ignore-projectiles: false
       endermite:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: 8.0
         takes-damage-from-water: false
       evoker:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -575,6 +592,7 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
       fox:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -584,6 +602,7 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
       ghast:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         ridable-max-y: 256.0
@@ -591,6 +610,7 @@ world-settings:
           max_health: 10.0
         takes-damage-from-water: false
       giant:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         movement-speed: 0.5
@@ -603,12 +623,14 @@ world-settings:
         have-hostile-ai: false
         takes-damage-from-water: false
       glow_squid:
+        always-drop-exp: false
         ridable: false
         attributes:
           max_health: 10.0
         can-fly: false
         takes-damage-from-water: false
       goat:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -616,11 +638,13 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       guardian:
+        always-drop-exp: false
         ridable: false
         attributes:
           max_health: 30.0
         takes-damage-from-water: false
       hoglin:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -628,6 +652,7 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       horse:
+        always-drop-exp: false
         ridable-in-water: false
         attributes:
           max_health:
@@ -643,6 +668,7 @@ world-settings:
         takes-damage-from-water: false
         stand-with-rider: true
       husk:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -654,6 +680,7 @@ world-settings:
           try-existing-chickens: true
         takes-damage-from-water: false
       illusioner:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         movement-speed: 0.5
@@ -662,6 +689,7 @@ world-settings:
           max_health: 32.0
         takes-damage-from-water: false
       iron_golem:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         can-swim: false
@@ -670,6 +698,7 @@ world-settings:
         takes-damage-from-water: false
         poppy-calms-anger: false
       llama:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -686,12 +715,14 @@ world-settings:
         takes-damage-from-water: false
         join-caravans: true
       magma_cube:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: size * size
         takes-damage-from-water: false
       mooshroom:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -699,6 +730,7 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       mule:
+        always-drop-exp: false
         ridable-in-water: false
         attributes:
           max_health:
@@ -713,6 +745,7 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       ocelot:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -720,6 +753,7 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       panda:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -727,6 +761,7 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       parrot:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         ridable-max-y: 256.0
@@ -735,6 +770,7 @@ world-settings:
         takes-damage-from-water: false
         can-breed: false
       pig:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -743,6 +779,7 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       piglin:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -751,12 +788,14 @@ world-settings:
         takes-damage-from-water: false
         portal-spawn-modifier: 2000
       piglin_brute:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: 50.0
         takes-damage-from-water: false
       polar_bear:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -765,11 +804,13 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       pufferfish:
+        always-drop-exp: false
         ridable: false
         attributes:
           max_health: 3.0
         takes-damage-from-water: false
       rabbit:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -780,6 +821,7 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
       ravager:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -798,11 +840,13 @@ world-settings:
         - minecraft:potatoes
         - minecraft:wheat
       salmon:
+        always-drop-exp: false
         ridable: false
         attributes:
           max_health: 3.0
         takes-damage-from-water: false
       sheep:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -811,6 +855,7 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
       shulker:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -824,6 +869,7 @@ world-settings:
           random-color: false
         change-color-with-dye: false
       silverfish:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -831,12 +877,14 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
       skeleton:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: 20.0
         takes-damage-from-water: false
       skeleton_horse:
+        always-drop-exp: false
         ridable-in-water: true
         can-swim: false
         attributes:
@@ -851,12 +899,14 @@ world-settings:
             max: 0.2
         takes-damage-from-water: false
       slime:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: size * size
         takes-damage-from-water: false
       snow_golem:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         leave-trail-when-ridden: false
@@ -871,6 +921,7 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: true
       squid:
+        always-drop-exp: false
         ridable: false
         attributes:
           max_health: 10.0
@@ -879,18 +930,21 @@ world-settings:
         can-fly: false
         takes-damage-from-water: false
       spider:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: 16.0
         takes-damage-from-water: false
       stray:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: 20.0
         takes-damage-from-water: false
       strider:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -899,6 +953,7 @@ world-settings:
         give-saddle-back: false
         takes-damage-from-water: true
       trader_llama:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -914,11 +969,13 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       tropical_fish:
+        always-drop-exp: false
         ridable: false
         attributes:
           max_health: 3.0
         takes-damage-from-water: false
       turtle:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -926,6 +983,7 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       vex:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         ridable-max-y: 256.0
@@ -933,6 +991,7 @@ world-settings:
           max_health: 14.0
         takes-damage-from-water: false
       villager:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -952,6 +1011,7 @@ world-settings:
         takes-damage-from-water: false
         allow-trading: true
       vindicator:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -960,12 +1020,14 @@ world-settings:
           spawn-chance: 0.0
         takes-damage-from-water: false
       witch:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: 26.0
         takes-damage-from-water: false
       wither:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         ridable-max-y: 256.0
@@ -979,12 +1041,14 @@ world-settings:
         explosion-radius: 1.0
         play-spawn-sound: true
       wither_skeleton:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: 20.0
         takes-damage-from-water: false
       wolf:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -995,12 +1059,14 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       zoglin:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
           max_health: 40.0
         takes-damage-from-water: false
       zombie:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -1014,6 +1080,7 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
       zombie_horse:
+        always-drop-exp: false
         ridable-in-water: false
         can-swim: false
         attributes:
@@ -1029,6 +1096,7 @@ world-settings:
         spawn-chance: 0.0
         takes-damage-from-water: false
       zombie_villager:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -1045,6 +1113,7 @@ world-settings:
         cure:
           enabled: true
       zombified_piglin:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -1057,6 +1126,7 @@ world-settings:
         count-as-player-kill-when-angry: true
         takes-damage-from-water: false
       wandering_trader:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -1066,6 +1136,7 @@ world-settings:
         takes-damage-from-water: false
         allow-trading: true
       pillager:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         attributes:
@@ -1073,6 +1144,7 @@ world-settings:
         bypass-mob-griefing: false
         takes-damage-from-water: false
       phantom:
+        always-drop-exp: false
         ridable: false
         ridable-in-water: false
         ridable-max-y: 256.0
